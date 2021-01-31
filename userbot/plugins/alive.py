@@ -9,7 +9,7 @@ from . import StartTime, catdef, catversion, hmention, mention, reply_id
 
 
 CAT_IMG = Config.ALIVE_PIC
-CUSTOM_ALIVE_TEXT = Config.CUSTOM_ALIVE_TEXT or "✮ MY BOT IS RUNNING SUCCESSFULLY ✮"
+CUSTOM_ALIVE_TEXT = Config.CUSTOM_ALIVE_TEXT or "BOT GUA INI BOSZ"
 EMOJI = Config.CUSTOM_ALIVE_EMOJI or "✧✧"
 
 
